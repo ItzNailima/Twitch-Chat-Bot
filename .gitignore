@@ -1,0 +1,7 @@
+
+.env
+
+node_modules
+
+lastfm key.txt
+package-lock.json
